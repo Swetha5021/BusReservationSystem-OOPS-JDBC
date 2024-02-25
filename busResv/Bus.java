@@ -1,8 +1,8 @@
 package busResv;
 
 public class Bus {
-    private int busNo;
-    private boolean ac;
+    private int busNo; 
+    private boolean ac; 
     private int capacity; //get and set
 
     Bus(int no,boolean ac,int cap){
