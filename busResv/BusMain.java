@@ -33,6 +33,7 @@ public class BusMain {
                     Cancel cancel = new Cancel();
                     System.out.print("Ticket cancelled Successfully.");
                 }
+                
                 System.out.println("-----------------------------------------");
             }
             sc.close();
